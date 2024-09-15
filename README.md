@@ -23,7 +23,7 @@ Picture Meta hunting for a Machine Learning Engineer. Here’s how our tool make
 ## Why You’ll Love It
 #### For marketing teams, this tool is a game-changer:
 
-- Laser Precision**: Tailors every email to exactly what your client needs.
+- Laser Precision: Tailors every email to exactly what your client needs.
 - Time Saver: Automates email crafting, freeing up your time for other important tasks.
 - Boosted Engagement: Increases responses with emails that resonate.
 - Professional Polish: Ensures every email is sleek and professional.
