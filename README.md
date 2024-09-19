@@ -1,4 +1,4 @@
-# AI-Powered Cold Email Generator: Supercharge Your Outreach!
+# AI-BOT - Supercharge Your Outreach!
 
 ## Overview
 
